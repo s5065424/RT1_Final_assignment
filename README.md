@@ -1,6 +1,6 @@
 # final_assignment
 
-# Research_Track_1-final-assignmnet (Alluri sai Krishna rama chander raju) (matricola 5060551)
+# Research_Track_1-final-assignmnet (adapa surya prasanna rohit) (matricola 5065424)
 
 The assignment is done in a ROS architecture for controlling a robot moving in the Gazebo (3D) environment.
 
