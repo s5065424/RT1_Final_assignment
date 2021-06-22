@@ -27,6 +27,10 @@ The server package my_srv contains the file final_project_server.cpp containing 
 
 ## Simulation of the assignment:
 
+download and move the package into the workspace
+
+https://github.com/s5065424/RT1_Final_assignment.git
+
 1.In the command terminal, launch Gazebo and rviz by executing the following command:
 roslaunch final_assignment simulation_gmapping.launch
 
